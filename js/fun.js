@@ -7,7 +7,7 @@ const closeBtn = document.getElementById("closeBtn");
 // Variables que quieres usar
 const url = "😈 👉 http://girlsroom.lat/ Chatea, juega y disfruta con chicas atrevidas 💕";
 const share = "https://t.me/share/url?url=" + encodeURIComponent(url);
-const cpa = "https://href.li/?http://acort.link/3RIMSphH";
+const cpa = "https://href.li/?http://acort.link/ep1R1jX";
 
 let cpaOpened = false; // controla si ya abriste la CPA
 
@@ -43,3 +43,4 @@ shareBtn.addEventListener("click", () => {
 closeBtn.onclick = () => {
   document.getElementById("simulator").style.display = "none";
 };
+
