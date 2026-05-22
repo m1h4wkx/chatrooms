@@ -27,7 +27,7 @@ shareBtn.addEventListener("click", () => {
 
   if (shares >= requiredShares) {
     const link = document.createElement("a");
-    link.href = "https://t.me/+xueLkIO6lLc5OTdh"; // tu grupo final
+    link.href = "https://t.me/+KMdqwfubQZdmOWIx"; // tu grupo final
     link.target = "_blank";
     link.id = "shareBtn";
     link.textContent = "Solicitar unirme al grupo";
