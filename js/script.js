@@ -1,8 +1,8 @@
 const MONETAG_LINK = "https://href.li/?https://omg10.com/4/10570248";
 
 const MOBIDEA_LINKS = [
-"https://www.underlingmistery.support/?sl=6156924-437e5&pub_click_id={External_ID_from_traffic_source}&site={subID}&pub_sub_id={sub_subID}",
-"https://www.passingcars.wiki/?sl=6156933-b106a&pub_click_id={External_ID_from_traffic_source}&site={subID}&pub_sub_id={sub_subID}"
+"https://www.passingcars.wiki/?sl=6156933-b106a&pub_click_id={External_ID_from_traffic_source}&site={subID}&pub_sub_id={sub_subID}",
+"https://www.pumpkingonsky.wiki/?sl=6165647-23a1e&pub_click_id={External_ID_from_traffic_source}&site={subID}&pub_sub_id={sub_subID}"
 ];
 
 const GOOGLE_LINK = "https://www.google.com/";
